@@ -1,0 +1,14 @@
+C:\Users\Bekir\source\repos\kodlamaioLesson1\kodlamaioLesson1\bin\Debug\net8.0\kodlamaioLesson1.exe
+C:\Users\Bekir\source\repos\kodlamaioLesson1\kodlamaioLesson1\bin\Debug\net8.0\kodlamaioLesson1.deps.json
+C:\Users\Bekir\source\repos\kodlamaioLesson1\kodlamaioLesson1\bin\Debug\net8.0\kodlamaioLesson1.runtimeconfig.json
+C:\Users\Bekir\source\repos\kodlamaioLesson1\kodlamaioLesson1\bin\Debug\net8.0\kodlamaioLesson1.dll
+C:\Users\Bekir\source\repos\kodlamaioLesson1\kodlamaioLesson1\bin\Debug\net8.0\kodlamaioLesson1.pdb
+C:\Users\Bekir\source\repos\kodlamaioLesson1\kodlamaioLesson1\obj\Debug\net8.0\kodlamaioLesson1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bekir\source\repos\kodlamaioLesson1\kodlamaioLesson1\obj\Debug\net8.0\kodlamaioLesson1.AssemblyInfoInputs.cache
+C:\Users\Bekir\source\repos\kodlamaioLesson1\kodlamaioLesson1\obj\Debug\net8.0\kodlamaioLesson1.AssemblyInfo.cs
+C:\Users\Bekir\source\repos\kodlamaioLesson1\kodlamaioLesson1\obj\Debug\net8.0\kodlamaioLesson1.csproj.CoreCompileInputs.cache
+C:\Users\Bekir\source\repos\kodlamaioLesson1\kodlamaioLesson1\obj\Debug\net8.0\kodlamaioLesson1.dll
+C:\Users\Bekir\source\repos\kodlamaioLesson1\kodlamaioLesson1\obj\Debug\net8.0\refint\kodlamaioLesson1.dll
+C:\Users\Bekir\source\repos\kodlamaioLesson1\kodlamaioLesson1\obj\Debug\net8.0\kodlamaioLesson1.pdb
+C:\Users\Bekir\source\repos\kodlamaioLesson1\kodlamaioLesson1\obj\Debug\net8.0\kodlamaioLesson1.genruntimeconfig.cache
+C:\Users\Bekir\source\repos\kodlamaioLesson1\kodlamaioLesson1\obj\Debug\net8.0\ref\kodlamaioLesson1.dll
