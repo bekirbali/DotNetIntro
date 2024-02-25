@@ -8,7 +8,7 @@ Console.WriteLine("Hello, World!");
 string message1 = "krediler";
 int term = 12;
 double amount = 100000;
-bool isAuth = true;
+bool isAuth = false;
 
 if (isAuth = false)
 {
